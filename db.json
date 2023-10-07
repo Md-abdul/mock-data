@@ -40,5 +40,70 @@
       "category": "Music",
       "price": 400
     }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "description": "A superhero with spider-like abilities.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQSTfDcmmVHnsGZBk-e_Ej8MbJEKJYMgf4g&usqp=CAU",
+      "favorite": false,
+      "popularity": 9,
+      "health": "Excellent"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "description": "A genius inventor in a powered suit of armor.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmlJ5fz4drqtvbYWJ6yf-ZzEj2q4OXkkT3ZA&usqp=CAU",
+      "favorite": false,
+      "popularity": 8,
+      "health": "Good"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "description": "An Amazonian warrior with superhuman abilities.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN8A7ELdwa84B6Fga04e1NBPKgVGsSUyplFg&usqp=CAU",
+      "favorite": false,
+      "popularity": 9,
+      "health": "Excellent"
+    },
+    {
+      "id": 4,
+      "name": "Hulk",
+      "description": "A scientist with the ability to transform into a giant, green monster.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiQe5KNiFm1ELklHSl_x0wLHE9y4NagLtqg&usqp=CAU",
+      "favorite": false,
+      "popularity": 7,
+      "health": "Incredible"
+    },
+    {
+      "id": 5,
+      "name": "Black Widow",
+      "description": "A skilled spy and assassin with no superhuman powers.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEDIE4nFvWC_aOoJnmwGpfUE6VhuT5Pe4Yg&usqp=CAU",
+      "favorite": false,
+      "popularity": 6,
+      "health": "Good"
+    },
+    {
+      "id": 6,
+      "name": "Thor",
+      "description": "The Norse god of thunder wielding the enchanted hammer, Mjolnir.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5AABj5NH2qwuN-plnhW8GJ0EXKSA39U49A&usqp=CAU",
+      "favorite": false,
+      "popularity": 10,
+      "health": "Godly"
+    },
+    {
+      "id": 7,
+      "name": "Green Lantern",
+      "description": "A member of the Green Lantern Corps, possessing a power ring.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YkiBAMR7KLOd3DF0_00zhCZCB5ZR6XVTbw&usqp=CAU",
+      "favorite": false,
+      "popularity": 8,
+      "health": "Superior"
+    }
   ]
 }
